@@ -1,5 +1,9 @@
 
 Our code heavily relies on the implementation of [Energy-based Out-of-distribution Detection](https://github.com/wetliu/energy_ood) 
+## Paper
+
+([Three Factors to Improve Out-of-Distribution Detection](https://arxiv.org/abs/2308.01030))
+
 
 ## Prerequisite
 
